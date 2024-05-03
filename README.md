@@ -1,2 +1,4 @@
 # Web2_21552011146_UTS
--muhammad ikhtiar rijalludin
+- Muhammad Ikhtiar Rijalludin
+- 21552011146
+- UTS WEB PEMOGRAMAN 2
